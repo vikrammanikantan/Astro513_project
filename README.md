@@ -27,5 +27,5 @@ This is the code I wrote to read in and analyze the results of the simulations. 
 ## 3. Presentation
 The presentation I gave to the class
 
-## 4. AgnosticSimulatinos.pdf
+## 4. ReligiousBlackHoles.pdf
 The final paper
